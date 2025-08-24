@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yekuda&label=Profile%20views&color=0e75b6&style=flat" alt="yekuda" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yekuda" alt="yekuda" /></a> </p>
-
 - 🔭 I’m currently working on **X Converter**
 
 - 🌱 I’m currently learning **C Sharp**
