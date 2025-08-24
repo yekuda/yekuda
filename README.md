@@ -1,3 +1,4 @@
+[![MasterHead]https://img.freepik.com/free-photo/galaxy-nature-aesthetic-background-starry-sky-mountain-remixed-media_53876-126761.jpg?t=st=1756035200~exp=1756038800~hmac=c853c90fd0e7ec3c227961834594b135eba34a26198bb8cc1ad3375b4f713fc1&w=1060
 <h1 align="center">Hi 👋, I'm Yekuda</h1>
 <h3 align="center">A passionate junior developer from Türkiye</h3>
 
