@@ -2,13 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=yekuda&color=red)
 <h1 align="center">Hi 👋, I'm Yekuda</h1>
 <h3 align="center">A passionate junior developer from Türkiye</h3>
-
-- 🔭 I’m currently working on [Convetta](https://convetta.com/)
-
-- 🌱 I’m currently learning **.NET, JavaScript, SQL**
-
-- ⚡ Fun fact **I Think I am Funny**
-
 <p align="left">
 </p>
 
